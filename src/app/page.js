@@ -7,7 +7,7 @@ import ClientProjectView from "@/components/client-view/project";
 import ClientContactView from "@/components/client-view/contact";
 
 async function extractAllDatas(currentSection) {
-  const res = await fetch(`http://localhost:3000/api/${currentSection}/get`, {
+  const res = await fetch(`https://my-portfolio-eta-seven-71.vercel.app/api/${currentSection}/get`, {
     method: "GET",
     cache: "no-store",
   });
