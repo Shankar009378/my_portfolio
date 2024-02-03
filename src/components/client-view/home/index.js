@@ -78,7 +78,7 @@ const socialIcons = [
   {
     id: "resume",
     icon: (
-      <a href="https://leetcode.com/Shankar_07/" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1iteQDs0xniq-Y_cXK1z1VjhGtXQuwFD5/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
         <IoMdDownload 
           color="rgba(111, 66, 193)"
           className="w-[40px] h-[40px]"
